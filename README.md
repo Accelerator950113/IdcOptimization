@@ -15,5 +15,5 @@ Start experiment with
 sh Exp.sh
 ```
 ## Data
-Origin Data --> http://networkrepository.com  
+Original data --> http://networkrepository.com  
 Processed data --> *networkData* 
